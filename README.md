@@ -8,6 +8,7 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+yarn prisma
 # or
 pnpm dev
 # or
